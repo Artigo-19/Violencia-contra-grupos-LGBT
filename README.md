@@ -1,4 +1,4 @@
-#Dados sobre violência contra grupos LGBT
+**Dados sobre violência contra grupos LGBT**
 
 O direito ao acesso à informação é um direito instrumental vital para a garantia de outros direitos humanos. No caso da população LGBTI (Lésbicas, Gays, Bissexuais, Transgêneros e Intersex), descriminada mundial e nacionalmente, a existência de dados acessíveis acerca dessa discriminação é essencial para a formulação de políticas públicas e legislação que visem a proteção dos direitos dessa população.
 
